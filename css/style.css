@@ -1,0 +1,66 @@
+.double-nav .breadcrumb-dn {
+    color: #fff;
+}
+
+.side-nav .logo-wrapper {
+    height: 160px
+}
+
+.btn-outline-danger {
+    color: white !important
+}
+
+.mix_slide h1 {
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+}
+
+.mix_slide p {
+    background-color: rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+}
+
+.blue-skin .card-header {
+    background-color: #4181eb;
+}
+
+.streak.streak-photo {
+    background-attachment: fixed;
+}
+
+.streak {
+    height: 250px !important;
+}
+
+.slick-slide {
+    margin: 0px 5px;
+}
+
+.slider_slick img {
+    border: 1px solid #000;
+    width: 200px;
+    height: 150px;
+    object-fit: contain;
+}
+
+.bg_bank .bg_about {
+    height: 100%;
+    width: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg_bank {
+    background-image: url("/img/bank/bank_bg.jpg");
+}
+
+.bg_about {
+    background-image: url("/img/about/main\ —\ копия.jpeg");
+}
+.btn_statment 
+{
+    color:black !important;
+}
